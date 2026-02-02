@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AWS.iml" filepath="$PROJECT_DIR$/.idea/AWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringAppOnEC2/aws.iml" filepath="$PROJECT_DIR$/SpringAppOnEC2/aws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewEC2UsingSDK/awsec2.iml" filepath="$PROJECT_DIR$/NewEC2UsingSDK/awsec2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootEC2Example/springbootec2example.iml" filepath="$PROJECT_DIR$/SpringBootEC2Example/springbootec2example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootRDSExample/springbootrdsexample.iml" filepath="$PROJECT_DIR$/SpringBootRDSExample/springbootrdsexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootS3Example/springboots3example.iml" filepath="$PROJECT_DIR$/SpringBootS3Example/springboots3example.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+This spring boot appliaction is a demo to connect to AWS-S3 service and upload
+and download file using spring boot application from local machine.
